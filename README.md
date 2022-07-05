@@ -20,4 +20,4 @@ I am running my code in the cloud, so it is always running in the background.
 
 
 # License
-- [MIT License](https://github.com/Solyyy/iss_overhead_notifier/blob/main/LICENSE.txt)
+- [MIT License](https://github.com/Solyyy/weather_checker/blob/main/LICENSE.TXT)
